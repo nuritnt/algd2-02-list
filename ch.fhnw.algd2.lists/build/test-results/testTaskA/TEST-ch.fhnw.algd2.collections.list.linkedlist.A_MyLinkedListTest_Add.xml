@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.fhnw.algd2.collections.list.linkedlist.A_MyLinkedListTest_Add" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-26T09:34:34" hostname="emiko.edu.ds.fhnw.ch" time="0.004">
+  <properties/>
+  <testcase name="add_Numbers1To5_AllNumbersAdded" classname="ch.fhnw.algd2.collections.list.linkedlist.A_MyLinkedListTest_Add" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

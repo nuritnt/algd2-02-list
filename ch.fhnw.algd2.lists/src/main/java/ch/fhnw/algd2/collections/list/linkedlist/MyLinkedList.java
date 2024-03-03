@@ -35,7 +35,11 @@ public class MyLinkedList<E> extends MyAbstractList<E> {
 	@Override
 	public boolean contains(Object o) {
 		// TODO implement this operation (part B)
-		throw new UnsupportedOperationException();
+		Node<E> current = first;
+		while(current != null && !current.elem.equals(o)) {
+			current = current.next;
+		}
+		return current != null;
 	}
 
 	@Override
